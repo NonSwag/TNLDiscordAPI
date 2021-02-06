@@ -1,0 +1,5 @@
+name: "TNLDiscordAPI"
+version: "4.2.0_277"
+main: net.nonswag.tnl.api.Discord$Velocity
+website: "https://www.thenextlvl.net/"
+author: "NonSwag"

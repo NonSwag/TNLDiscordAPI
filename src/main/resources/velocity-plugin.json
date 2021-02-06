@@ -1,0 +1,9 @@
+{
+  "name": "TNLDiscordAPI",
+  "id": "tnldiscordapi",
+  "version": "4.2.0_277",
+  "url": "https://www.thenextlvl.net/",
+  "authors":["NonSwag"],
+  "dependencies":[],
+  "main": "net.nonswag.tnl.api.Discord$Velocity"
+}
