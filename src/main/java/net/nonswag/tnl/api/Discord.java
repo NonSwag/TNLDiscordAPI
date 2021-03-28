@@ -17,13 +17,7 @@ public class Discord {
         }
     }
 
-    @Plugin(
-            authors = "NonSwag",
-            id = "tnldiscordapi",
-            name = "TNLDiscordAPI",
-            url = "https://www.thenextlvl.net/",
-            version = "4.2.0_227"
-    )
+    @Plugin(authors = "NonSwag", id = "tnldiscordapi", name = "TNLDiscordAPI", url = "https://www.thenextlvl.net/", version = "4.2.0_227")
     public static class Velocity {
 
         @Inject
