@@ -19,6 +19,10 @@
             <name>m2-dv8tion</name>
             <url>https://m2.dv8tion.net/releases</url>
         </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -26,6 +30,11 @@
             <groupId>net.dv8tion</groupId>
             <artifactId>JDA</artifactId>
             <version>4.2.1_262</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.cerus</groupId>
+            <artifactId>jda-slash-commands</artifactId>
+            <version>1.0.1</version>
         </dependency>
     </dependencies>
 
