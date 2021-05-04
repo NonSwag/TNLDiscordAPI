@@ -1,5 +1,5 @@
 name: "TNLDiscordAPI"
-version: "4.2.0_227"
+version: "4.2.1_262"
 main: net.nonswag.tnl.api.Discord$Bukkit
 website: "https://www.thenextlvl.net/"
 author: "NonSwag"
