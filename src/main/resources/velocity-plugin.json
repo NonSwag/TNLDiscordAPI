@@ -3,7 +3,8 @@
   "id": "tnldiscordapi",
   "version": "4.2.1_262",
   "url": "https://www.thenextlvl.net/",
-  "authors":["NonSwag"],
-  "dependencies":[],
+  "authors": [
+    "NonSwag"
+  ],
   "main": "net.nonswag.tnl.api.Discord$Velocity"
 }
